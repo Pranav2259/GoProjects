@@ -1,3 +1,3 @@
-module github.com/Pranav2259/GoProjects/ToDoList
+module github.com/Pranav2259/GoProjects/todolist
 
 go 1.25.0
