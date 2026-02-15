@@ -32,20 +32,20 @@ go install
 
 ## CLI USAGE
 
-todolist                   Show help / usage
-todolist add "title"        Create a new task
-todolist list               List pending tasks
-todolist list-all           List all tasks
-todolist complete <id>      Mark a task as completed
-todolist delete <id>        Delete a task
-todolist help               Show this help message
+- todolist                   Show help / usage
+- todolist add "title"        Create a new task
+- todolist list               List pending tasks
+- todolist list-all           List all tasks
+- todolist complete <id>      Mark a task as completed
+- todolist delete <id>        Delete a task
+- todolist help               Show this help message
 
 ## EXAMPLE 
 
-todolist                   Show help / usage
-todolist add "title"        Create a new task
-todolist list               List pending tasks
-todolist list-all           List all tasks
-todolist complete <id>      Mark a task as completed
-todolist delete <id>        Delete a task
-todolist help               Show this help message
+- todolist                   Show help / usage
+- todolist add "title"        Create a new task
+- todolist list               List pending tasks
+- todolist list-all           List all tasks
+- todolist complete <id>      Mark a task as completed
+- todolist delete <id>        Delete a task
+- todolist help               Show this help message
